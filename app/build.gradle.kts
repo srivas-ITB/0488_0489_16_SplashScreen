@@ -61,5 +61,7 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     implementation("androidx.constraintlayout:constraintlayout-compose:1.1.1")
     implementation("androidx.compose.material:material-icons-extended")
+    implementation(libs.androidx.core.splashscreen)
+
 
 }
