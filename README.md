@@ -1,3 +1,2 @@
-# App 15 Dialog
-- Proves amb Dialog
-- Proves amb AlertDialog
+# App 16 SplashScreen
+- Proves amb SplashScreen
